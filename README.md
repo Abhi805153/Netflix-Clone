@@ -1,4 +1,8 @@
 # Netflix-Clone
+
+Url:  https://abhi805153.github.io/Netflix-Clone/
+
+
 This is the core code from scratch to clone the landing page of Netflix using **HTML, CSS and JavaScript.**
 
 ## 📸 Screenshots
